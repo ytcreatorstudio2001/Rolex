@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/lazyprincessbot.jpg" alt="Lazy Princess Logo">
+  <img src="assets/Rolex.jpg" alt="Lazy Princess Logo">
 </p>
 <h1 align="center">
   <b> Rolex </b>
