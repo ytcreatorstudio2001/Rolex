@@ -14,7 +14,7 @@ Here is the help for my COMMANDS."""
 - Rolex is an open source project. 
 - Source - <a href=https://t.me/moviehub_plus>MovieHUB+</a>
 <b>DEVS:</b>
-- <a href=https://t.me/akhil_tg>LazyDeveloper</a>"""
+- <a href=https://t.me/akhil_tg>Akhil-TG</a>"""
     MANUELFILTER_TXT = """Help: <b>Filters</b>
 
 - Filter is the feature were users can set automated replies for a particular keyword and LazyPriness will respond whenever that keyword hits the message
