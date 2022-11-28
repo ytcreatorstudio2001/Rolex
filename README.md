@@ -2,7 +2,7 @@
   <img src="assets/lazyprincessbot.jpg" alt="Lazy Princess Logo">
 </p>
 <h1 align="center">
-  <b> Lazy Princess BOT </b>
+  <b> Rolex </b>
 </h1>
 
 
