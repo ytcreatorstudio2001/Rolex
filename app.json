@@ -16,7 +16,7 @@
       "inline"
     ],
     "website": "https://github.com/LazyDeveloperr/LazyPrincess",
-    "repository": "https://github.com/ytcreatorstudio2001/Rolex",
+    "repository": "https://github.com/LazyDeveloperr/LazyPrincess",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
