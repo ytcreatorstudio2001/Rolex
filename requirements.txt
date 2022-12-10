@@ -5,7 +5,7 @@ motor==3.1.1
 marshmallow==3.19.0
 umongo==3.1.0
 requests==2.28.1
-bs4==4.11.1
+bs4
 imdbpy==2022.7.9
 aiohttp
 pytz
